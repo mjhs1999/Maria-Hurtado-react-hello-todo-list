@@ -1,12 +1,35 @@
 
-/* 
+#app{
+    margin-left: 600px;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+#addBtn{
+    margin-left: 10px;
+}
 
-*/
+#closeBtn{
+    margin-left: auto;
+    display: flex;  
+    margin-top: -25px;
+}
+
+.list-group-item{
+    height: 40px;
+}
+
+.list-group{
+    width: 450px;
+    
+}
+
+#itemsQuantity{
+    margin-left: 0px;
+}
+
+#tittle{
+    margin-left: 88px;
+}
+
+#input{
+    margin-left: 88px;
+}
